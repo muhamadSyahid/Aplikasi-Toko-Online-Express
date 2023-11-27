@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Aplikasi Toko Berbasis online",
   "main": "app.js",
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/muhamadSyahid/Aplikasi-Toko-Online-Express/issues"
   },
-  "homepage": "https://github.com/muhamadSyahid/Aplikasi-Toko-Online-Express#readme"
+  "homepage": "https://github.com/muhamadSyahid/Aplikasi-Toko-Online-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
