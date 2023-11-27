@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Aplikasi Toko Berbasis online",
   "main": "app.js",
+  "type" : "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +13,10 @@
   },
   "keywords": [
     "Toko",
-    "Toko-Online"
+    "Toko-Online",
+    "express",
+    "Node-JS",
+    "JavaScript"
   ],
   "author": "Muhamad Syahid",
   "license": "MIT",
